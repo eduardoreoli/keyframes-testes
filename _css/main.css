@@ -1,19 +1,31 @@
 @charset "UTF-8";
 /* The animation code */
 @-webkit-keyframes exemplo {
-  from {
-    background-color: black;
+  0% {
+    background-color: red;
   }
-  to {
-    background-color: blueviolet;
+  25% {
+    background-color: yellow;
+  }
+  50% {
+    background-color: blue;
+  }
+  100% {
+    background-color: green;
   }
 }
 @keyframes exemplo {
-  from {
-    background-color: black;
+  0% {
+    background-color: red;
   }
-  to {
-    background-color: blueviolet;
+  25% {
+    background-color: yellow;
+  }
+  50% {
+    background-color: blue;
+  }
+  100% {
+    background-color: green;
   }
 }
 
@@ -22,6 +34,9 @@
   width: 100px;
   height: 100px;
   background-color: red;
+}
+
+.quadro:hover {
   -webkit-animation-name: exemplo;
           animation-name: exemplo;
   -webkit-animation-duration: 4s;
