@@ -1,0 +1,8 @@
+.quadro {
+  width: 200px;
+  height: 200px;
+  background-color: darkgreen;
+  -webkit-transform: translate(50px, 100px);
+          transform: translate(50px, 100px);
+}
+/*# sourceMappingURL=main.css.map */
