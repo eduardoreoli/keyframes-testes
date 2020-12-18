@@ -67,5 +67,7 @@
           animation-duration: 4s;
   -webkit-animation-delay: 4s;
           animation-delay: 4s;
+  -webkit-animation-iteration-count: 3;
+          animation-iteration-count: 3;
 }
 /*# sourceMappingURL=main.css.map */
