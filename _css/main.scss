@@ -2,5 +2,9 @@
     width: 200px;
     height: 200px;
     background-color: darkgreen;
-    transform: rotateZ(150deg);
+    transition: width 2s;
+}
+
+.quadro:hover {
+    width: 300px;
 }
