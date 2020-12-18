@@ -2,7 +2,7 @@
   width: 200px;
   height: 200px;
   background-color: darkgreen;
-  -webkit-transform: skewX(20deg);
-          transform: skewX(20deg);
+  -webkit-transform: skewY(20deg);
+          transform: skewY(20deg);
 }
 /*# sourceMappingURL=main.css.map */
