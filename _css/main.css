@@ -2,7 +2,7 @@
   width: 200px;
   height: 200px;
   background-color: darkgreen;
-  -webkit-transform: rotateX(150deg);
-          transform: rotateX(150deg);
+  -webkit-transform: rotateY(150deg);
+          transform: rotateY(150deg);
 }
 /*# sourceMappingURL=main.css.map */
