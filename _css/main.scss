@@ -2,7 +2,9 @@
     width: 200px;
     height: 200px;
     background-color: darkgreen;
-    transition: width 2s, height 4s, background 5s;
+    transition: width 2s, height 2s, background 5s;
+    transition-timing-function: ease-in-out;
+    
 }
 
 .quadro:hover {
