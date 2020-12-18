@@ -2,7 +2,7 @@
   width: 200px;
   height: 200px;
   background-color: darkgreen;
-  -webkit-transform: scale(2, 3);
-          transform: scale(2, 3);
+  -webkit-transform: scaleX(2);
+          transform: scaleX(2);
 }
 /*# sourceMappingURL=main.css.map */
