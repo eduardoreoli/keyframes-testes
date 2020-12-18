@@ -6,6 +6,8 @@
   transition: width 2s, height 2s, background 5s;
   -webkit-transition-timing-function: ease-in-out;
           transition-timing-function: ease-in-out;
+  -webkit-transition-delay: 3s;
+          transition-delay: 3s;
 }
 
 .quadro:hover {
